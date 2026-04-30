@@ -1,0 +1,7 @@
+.git.nosync
+outlines/
+ATTRIBUTIONS.md
+CLAUDE.md
+writing-status.json
+*.pdf
+.DS_Store
