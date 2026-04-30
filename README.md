@@ -7,6 +7,16 @@
 
 ---
 
+## 참고한 자료와 감사
+
+이 책은 엄태웅 작가·최윤섭 박사·권창현 교수의 gradschoolstory 글,
+김세정 교수·윤은정 교수·유두희 박사의 *대학원생 때 알았더라면 좋았을
+것들 2*, Philip Guo, Matt Might, Richard M. Reis, Peter J.
+Feibelman의 박사과정·학계 생존 기록에서 배웠다. 자세한 credit은
+[CREDITS.md](CREDITS.md)에 둔다.
+
+---
+
 ## 5분 핵심
 
 박사는 학교가 아니라 5년의 운영 방식을 고르는 일이다. 지도교수 관계는
@@ -36,6 +46,7 @@
 grad-notes/
 ├── index.html
 ├── guide.html
+├── CREDITS.md
 ├── chapter_01_phd_operating_system.md
 ├── chapter_02_advisor_system.md
 ├── chapter_03_own_research.md
