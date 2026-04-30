@@ -2,6 +2,8 @@
 outlines/
 ATTRIBUTIONS.md
 CLAUDE.md
+AGENTS.md
+STYLE*.md
 writing-status.json
 *.pdf
 .DS_Store
