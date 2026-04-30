@@ -4,7 +4,7 @@
 
 ## 한국어 대학원 회고와 조언
 
-- 엄태웅 작가, 최윤섭 박사, 권창현 교수의 *대학원생 때 알았더라면 좋았을 것들* 1권 ([gradschoolstory 연재](https://gradschoolstory.chkwon.net))
+- 엄태웅 대표, 최윤섭 박사, 권창현 교수의 *대학원생 때 알았더라면 좋았을 것들* 1권 ([gradschoolstory 연재](https://gradschoolstory.chkwon.net))
 - 김세정 교수, 윤은정 교수, 유두희 박사의 *대학원생 때 알았더라면 좋았을 것들* 2권
 - 김기섭 교수의 [gsk1m.github.io](https://gsk1m.github.io/)와 [gisbi-kim.github.io](https://gisbi-kim.github.io/) 글들
 - 임형태 박사와 현동진 박사의 연구 운영, 자율성, 연구 생활에 관한 글과 강의

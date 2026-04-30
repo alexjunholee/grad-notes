@@ -14,7 +14,7 @@
 
 졸업 직후 1년이 박사 5년의 *결과 출력*이자 다음 5년의 *입력*이다. 박사 5년의 누적이 졸업 직후 1년 안에 어떻게 운영되는가가 다음 5년의 좌표를 결정한다. 1년의 운영이 5년의 결과로 굴러간다. *5년의 결과가 1년 안에 출력된다*가 아니라, *1년의 운영이 5년의 입력이 된다*가 여기의 관점이다.
 
-엄태웅 작가의 「에필로그 — 안정적인 삶, 그런 거 없다」([Ch.3](./chapter_23_no_stability.md))의 관점이 여기서 다시 작동한다. 졸업이 *안정의 도착*이 아닌 만큼, 졸업 후 1년차의 학생이 *이제 안정에 도달했다*는 관점으로 들어가면 1년차의 운영이 기본 위에서 작동하지 않는다. 권창현 교수의 *알아도 걱정, 몰라도 걱정*([Ch.3](./chapter_23_no_stability.md))도 같이 작동한다 — 졸업 후 1년차에 *어디로 가도 걱정*이 기본이다.
+엄태웅 대표의 「에필로그 — 안정적인 삶, 그런 거 없다」([Ch.3](./chapter_23_no_stability.md))의 관점이 여기서 다시 작동한다. 졸업이 *안정의 도착*이 아닌 만큼, 졸업 후 1년차의 학생이 *이제 안정에 도달했다*는 관점으로 들어가면 1년차의 운영이 기본 위에서 작동하지 않는다. 권창현 교수의 *알아도 걱정, 몰라도 걱정*([Ch.3](./chapter_23_no_stability.md))도 같이 작동한다 — 졸업 후 1년차에 *어디로 가도 걱정*이 기본이다.
 
 > **졸업은 끝이 아니라 시작이다.** 졸업식이 한 사건이고, 그 사건 *이후*의 1년이 본인의 운영이다.
 
@@ -122,6 +122,6 @@
 
 ---
 
-**출처.** 1차 이 장에서는 졸업 = 다음 단계 시작 관점, 진로 갈래 4의 첫 1년 운영 단위, 정체성 전환 3 층위 (호칭·affiliation·자기 관점), 박사 시절 자산 4축 (논문·코드·관계·평판), 흔한 함정 3, 처방 층위 3 (첫 3개월·관계 보호·5년 좌표 갱신). 2차 [엄태웅 작가 「에필로그 — 안정적인 삶」](https://gradschoolstory.chkwon.net) 연결 — *불안정이 기본 mode* 관점이 졸업 시점에 다시 적용 ([Ch.3](./chapter_23_no_stability.md)). [권창현 교수 「에필로그 — 뭘 해도 불안하다」](https://gradschoolstory.chkwon.net) 연결 — *알아도 걱정, 몰라도 걱정* 관점 ([Ch.3](./chapter_23_no_stability.md)). [권창현 교수 「교수처럼 행동」](https://gradschoolstory.chkwon.net) 연결 — 교수 갈래의 *교수처럼 행동* 관점이 1년차의 기본 운영으로 옮겨짐 ([Ch.2](./chapter_22_professor_daily.md)). give-first 한 줄 단위 관점은 [Part 3 Ch.3](./chapter_09_give_first.md)에서. 후배 인수인계 *지도* 관점은 [Ch.1](./chapter_21_mentor_juniors.md) §5에서. 임포스터 관점의 정체성 전환 변형은 [Part 4 Ch.7](./chapter_20_imposter_syndrome.md)에서.
+**출처.** 1차 이 장에서는 졸업 = 다음 단계 시작 관점, 진로 갈래 4의 첫 1년 운영 단위, 정체성 전환 3 층위 (호칭·affiliation·자기 관점), 박사 시절 자산 4축 (논문·코드·관계·평판), 흔한 함정 3, 처방 층위 3 (첫 3개월·관계 보호·5년 좌표 갱신). 2차 [엄태웅 대표 「에필로그 — 안정적인 삶」](https://gradschoolstory.chkwon.net) 연결 — *불안정이 기본 mode* 관점이 졸업 시점에 다시 적용 ([Ch.3](./chapter_23_no_stability.md)). [권창현 교수 「에필로그 — 뭘 해도 불안하다」](https://gradschoolstory.chkwon.net) 연결 — *알아도 걱정, 몰라도 걱정* 관점 ([Ch.3](./chapter_23_no_stability.md)). [권창현 교수 「교수처럼 행동」](https://gradschoolstory.chkwon.net) 연결 — 교수 갈래의 *교수처럼 행동* 관점이 1년차의 기본 운영으로 옮겨짐 ([Ch.2](./chapter_22_professor_daily.md)). give-first 한 줄 단위 관점은 [Part 3 Ch.3](./chapter_09_give_first.md)에서. 후배 인수인계 *지도* 관점은 [Ch.1](./chapter_21_mentor_juniors.md) §5에서. 임포스터 관점의 정체성 전환 변형은 [Part 4 Ch.7](./chapter_20_imposter_syndrome.md)에서.
 
 다음: 「대학원노트」 끝.
