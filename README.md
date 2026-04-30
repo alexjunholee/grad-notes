@@ -1,58 +1,79 @@
 # grad-notes (「대학원노트」)
 
 > **이공계 대학원생을 위한 한국어 가이드.**
-> 책상에 앉기까지와 일어선 뒤의 시간 — 결정·관계·자율성·감정·진로.
+> 책상에 앉기까지·일어선 뒤의 시간 — 결정·관계·자율성·감정·진로.
+> 박사과정의 시간과 결정을 다룬 글.
 
 [**가이드 (guide.html)**](guide.html) · [자매 가이드 「연구노트」](../research-notes/guide.html)
 
 ---
 
-## 5분 핵심
+## 5분 핵심 — 다섯 줄로 압축한 대학원 5년
 
-박사는 학교가 아니라 5년의 운영 방식을 고르는 일이다. 지도교수 관계는
-주어지는 환경이 아니라 함께 만드는 시스템에 가깝다. 내 연구는 허락을
-기다리다 생기지 않고, 작은 결정이 누적될 때 생긴다. 자율성은 자유의
-다른 이름이 아니라 채점자 없는 만족을 견디는 힘이다. 졸업은 안정의
-도착점이 아니라 다음 5년의 첫 운영이다.
+> **"지도교수 = 연구분야 > 장학금 > 학교."** — 엄태웅 작가, 정렬 규칙
+>
+> **"연속 몰입 시간 블록을 의도적으로 보호한다."** — 최윤섭 박사, 박사 첫 해 회고
+>
+> **"자기 논문은 자기가 써야 한다."** — 권창현 교수, G6
+>
+> **"내가 후배였을 때 받고 싶었던 것을 후배에게 주면 된다."** — 최윤섭 박사, senior–junior
+>
+> **"안정적인 삶, 그런 거 없다. 뭘 해도 불안하다."** — 엄태웅 작가·권창현 교수, 에필로그
 
 ---
 
 ## 누구를 위한 책인가
 
-- 진학을 결정하기 직전이거나 1–2년차에 들어선 대학원생
-- 지도교수와의 관계·시간 운영·페이스가 흔들리는 박사과정 학생
-- 자기 연구를 어떻게 자기 것으로 만들지 아직 감이 오지 않는 학생
-- 졸업 직전 진로와 다음 역할을 고민하는 연구자
+- 진학을 결정 직전이거나 1–2년차 대학원생
+- 지도교수와의 관계·시간 운영·페이스가 흔들리는 박사 과정
+- 졸업 직전 진로 결정에 직면한 학생
+- 비이공계 박사·해외 임용·산업계 진로·정신건강 같은 특정 주제를 검토하는 사람
 
-분야 의존성이 낮은 만큼 이공계 일반에 적용할 수 있다. 「연구노트」가
-책상 위의 작업을 다룬다면, 이 책은 그 작업을 가능하게 만드는 시간과
-관계를 다룬다.
+분야 의존성이 낮은 만큼 이공계 일반 (자연과학·공학) 모두 적용 가능. 「연구노트」와 자매 관계로, 글쓰기·읽기는 「연구노트」, 운영·결정·감정은 본 책.
 
 ---
 
-## 구조
+## 구조 (구성)
 
 ```
 grad-notes/
-├── index.html
-├── guide.html
-├── chapter_01_phd_operating_system.md
-├── chapter_02_advisor_system.md
-├── chapter_03_own_research.md
-├── chapter_04_time_future_self.md
-├── chapter_05_collaboration_cost.md
-├── chapter_06_tools_after_problem.md
-├── chapter_07_autonomy_without_grades.md
-├── chapter_08_integrated_life.md
-├── chapter_09_different_burdens.md
-├── chapter_10_next_roles.md
-├── chapter_11_stability_realignment.md
-└── chapter_12_first_year_after_phd.md
+├── guide.html                                # 메인 가이드 HTML
+│
+├── chapter_01_phd_decision.md                  # Part 1: 결정과 진입
+├── chapter_02_environment.md
+├── chapter_03_nonengineering_phd_path.md
+│
+├── chapter_04_two_way_relationship.md          # Part 2: 지도교수
+├── chapter_05_signal_reading.md
+├── chapter_06_conflict_resolution.md
+│
+├── chapter_07_my_research.md                   # Part 3: 자율성 운영
+├── chapter_08_time_use.md
+├── chapter_09_give_first.md
+├── chapter_10_one_question_email.md
+├── chapter_11_tool_trap.md
+├── chapter_12_multi_skill.md
+├── chapter_13_industry_path.md
+│
+├── chapter_14_autonomy_weight.md               # Part 4: 감정·페이스
+├── chapter_15_comparison_trap.md
+├── chapter_16_breakdown_cycle.md
+├── chapter_17_integrated_life.md
+├── chapter_18_women_phd.md
+├── chapter_19_mental_health.md
+├── chapter_20_imposter_syndrome.md
+│
+├── chapter_21_mentor_juniors.md                # Part 5: 다음 단계
+├── chapter_22_professor_daily.md
+├── chapter_23_no_stability.md
+├── chapter_24_overseas_appointment.md
+├── chapter_25_industry_daily.md
+└── chapter_26_first_year_after_phd.md
 ```
 
 ---
 
 ## 자매 프로젝트
 
-- [**「연구노트」 (research-notes)**](../research-notes/guide.html) — 같은 5년의 다른 단면. 논문 읽기·쓰기·발표.
-- [**robotics-practice**](../robotics-practice/) — 분야 본체. Spatial AI / SLAM / CV 인터랙티브 가이드.
+- [**「연구노트」 (research-notes)**](../research-notes/guide.html) — 같은 5년의 다른 단면. 책상 위의 작업 (읽기·쓰기·발표).
+- [**robotics-practice**](../robotics-practice/) — 분야 본체 (research-notes 참조).
