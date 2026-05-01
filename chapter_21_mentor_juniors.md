@@ -93,6 +93,6 @@
 
 다음 챕터는 후배에서 한 단계 더 나아가, *졸업 후의 본인*이 자주 마주하는 한 자리 — 교수의 일상 — 을 다룬다.
 
-**출처.** [최윤섭 박사 「후배의 성장을 도와줘라」](https://gradschoolstory.chkwon.net)가 1차. 자기 복제 관점, 멘토링 황금률, 리더십 훈련 관점은 모두 이 자리에서 가져왔다. Knuth §15-§17의 *referee-as-teacher* 관점은 「연구노트」 [Part 1 ch05 — Reviewer로 읽기](../research-notes/chapter_10_reading_for_review.md)와 연결된다. 자기 복제의 두 측면(기록·질문) 분리, 실패담의 비대칭 베풂 관점, 저자권 운영 4 목록, 인수인계 *지도*의 형태는 이 장에서 정리했다.
+**출처.** [최윤섭 박사 「후배의 성장을 도와줘라」](https://gradschoolstory.chkwon.net/yoonsup/senior-junior/)가 1차. 자기 복제 관점, 멘토링 황금률, 리더십 훈련 관점은 모두 이 자리에서 가져왔다. Knuth §15-§17의 *referee-as-teacher* 관점은 「연구노트」 [Part 1 ch05 — Reviewer로 읽기](../research-notes/chapter_10_reading_for_review.md)와 연결된다. 자기 복제의 두 측면(기록·질문) 분리, 실패담의 비대칭 베풂 관점, 저자권 운영 4 목록, 인수인계 *지도*의 형태는 이 장에서 정리했다.
 
 다음: [Ch.2 — 교수의 일상을 알기](./chapter_22_professor_daily.md)

@@ -112,6 +112,6 @@
 
 ---
 
-**출처.** 1차 이 장에서는 갈등 4단계 관점, 단계별 정비 단위, 외부 자원 목록 5종, 조용한 처리 vs 공식 채널 구분 기준, 갈등 후 운영 3 단위. 2차 [엄태웅 대표 「mysupervisor」 9위 사이코](https://gradschoolstory.chkwon.net) 연결 — *회피가 기본* 명제는 [Part 2 Ch.1](./chapter_04_two_way_relationship.md) §4에서 가져왔다. [최윤섭 박사 「지도교수 고르기」](https://gradschoolstory.chkwon.net) *절대 권력은 절대 부패한다* 연결 — [Part 2 Ch.1](./chapter_04_two_way_relationship.md) §2와 같은 자리. 저자권 시작 시점 명시 명제는 [Part 5 Ch.1](./chapter_21_mentor_juniors.md) §5와 같은 명제의 *분쟁 차원* 적용. 멘붕 사이클의 24-48시간 관점은 [Part 4 Ch.3](./chapter_16_breakdown_cycle.md)에서. 외부 자원 목록 운영 관점은 [Part 4 Ch.6](./chapter_19_mental_health.md) §4에서.
+**출처.** 1차 이 장에서는 갈등 4단계 관점, 단계별 정비 단위, 외부 자원 목록 5종, 조용한 처리 vs 공식 채널 구분 기준, 갈등 후 운영 3 단위. 2차 [엄태웅 대표 「mysupervisor」 9위 사이코](https://gradschoolstory.chkwon.net/terry/mysupervisor/) 연결 — *회피가 기본* 명제는 [Part 2 Ch.1](./chapter_04_two_way_relationship.md) §4에서 가져왔다. [최윤섭 박사 「지도교수 고르기」](https://gradschoolstory.chkwon.net/yoonsup/how_to_choose_your_advisor/) *절대 권력은 절대 부패한다* 연결 — [Part 2 Ch.1](./chapter_04_two_way_relationship.md) §2와 같은 자리. 저자권 시작 시점 명시 명제는 [Part 5 Ch.1](./chapter_21_mentor_juniors.md) §5와 같은 명제의 *분쟁 차원* 적용. 멘붕 사이클의 24-48시간 관점은 [Part 4 Ch.3](./chapter_16_breakdown_cycle.md)에서. 외부 자원 목록 운영 관점은 [Part 4 Ch.6](./chapter_19_mental_health.md) §4에서.
 
 다음: [Ch.1 — 내 연구 (Part 3 시작)](./chapter_07_my_research.md)

@@ -124,6 +124,6 @@
 
 ---
 
-**출처.** [엄태웅 대표 「박사를 꿈꿔도」 외](https://gradschoolstory.chkwon.net), [최윤섭 박사 「대학원 가야 하나」 외](https://gradschoolstory.chkwon.net), 김세정 교수 (2022) 「대학원생 때 알았더라면 좋았을 것들 2」 §2 「대학 때 진로를 마음껏 방황해보자」, [Philip Guo (2012) *The PhD Grind* Prologue](https://pgbovine.net/PhD-memoir.htm). 9가지 어려움 목록 정리·진학 결정의 자기 정합성 관점은 이 장에서 정리했다.
+**출처.** [엄태웅 대표 「박사를 꿈꿔도」 외](https://gradschoolstory.chkwon.net/terry/%eb%b0%95%ec%82%ac%eb%a5%bc-%ea%bf%88%ea%bf%94%eb%8f%84-%eb%90%98%eb%82%98%ec%9a%94/), [최윤섭 박사 「대학원 가야 하나」 외](https://gradschoolstory.chkwon.net/yoonsup/2-2/), 김세정 교수 (2022) 「대학원생 때 알았더라면 좋았을 것들 2」 §2 「대학 때 진로를 마음껏 방황해보자」, [Philip Guo (2012) *The PhD Grind* Prologue](https://pgbovine.net/PhD-memoir.htm). 9가지 어려움 목록 정리·진학 결정의 자기 정합성 관점은 이 장에서 정리했다.
 
 다음: [Ch.2 — 환경을 고르는 일](./chapter_02_environment.md)

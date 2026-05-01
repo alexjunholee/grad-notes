@@ -112,4 +112,4 @@
 
 **「대학원노트」 끝.**
 
-**출처.** [엄태웅 대표 「에필로그 — 안정적인 삶, 그런 거 없다」](https://gradschoolstory.chkwon.net)와 [권창현 교수 「에필로그 — 뭘 해도 불안하다」](https://gradschoolstory.chkwon.net)가 1차. *불안정이 기본 mode*, *불행과 공존*, *뭘 해도 불안하다*, *연구의 어려움은 실존적 의문 앞에서 사소하다*, *알아도 걱정 몰라도 걱정이다*는 모두 두 에필로그에서 가져왔다. [Philip Guo (2012) *The PhD Grind* Epilogue](https://pgbovine.net/PhD-memoir.htm) — 졸업 후 4 좌표 이동 참조 (§ 2). 안정의 두 층 분리(*예외적 사건의 안정* vs *불안의 부재*), 입시 환상의 *재발* 관점, 신데렐라 동화·SNS의 단면 비유, 박사과정 불안과 생애 단계 불안의 분리, *진짜 좌표 = 결정·관계·자율성·감정의 누적* 관점은 이 장에서 정리했다.
+**출처.** [엄태웅 대표 「에필로그 — 안정적인 삶, 그런 거 없다」](https://gradschoolstory.chkwon.net/terry/epilog_terry_stablelife/)와 [권창현 교수 「에필로그 — 뭘 해도 불안하다」](https://gradschoolstory.chkwon.net/changhyun/%ec%97%90%ed%95%84%eb%a1%9c%ea%b7%b8-%eb%ad%98-%ed%95%b4%eb%8f%84-%eb%b6%88%ec%95%88%ed%95%98%eb%8b%a4/)가 1차. *불안정이 기본 mode*, *불행과 공존*, *뭘 해도 불안하다*, *연구의 어려움은 실존적 의문 앞에서 사소하다*, *알아도 걱정 몰라도 걱정이다*는 모두 두 에필로그에서 가져왔다. [Philip Guo (2012) *The PhD Grind* Epilogue](https://pgbovine.net/PhD-memoir.htm) — 졸업 후 4 좌표 이동 참조 (§ 2). 안정의 두 층 분리(*예외적 사건의 안정* vs *불안의 부재*), 입시 환상의 *재발* 관점, 신데렐라 동화·SNS의 단면 비유, 박사과정 불안과 생애 단계 불안의 분리, *진짜 좌표 = 결정·관계·자율성·감정의 누적* 관점은 이 장에서 정리했다.

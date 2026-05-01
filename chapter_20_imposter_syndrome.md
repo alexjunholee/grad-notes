@@ -114,6 +114,6 @@ SLAM·CV에서 임포스터 관점이 자주 등장하는 한 적용 사례는 *
 
 ---
 
-**출처.** 1차 이 장에서는 내부 좌표 vs 외부 좌표 분리 관점, 박사 단계별 양상 3종, *기본 무지* vs *이미 알아야 한다* 관점, 작은 기여의 자료 관점, 분야 적용 사례. 2차 [권창현 교수 G2 「대학원에서 닥쳐오는 멘붕의 파도」](https://gradschoolstory.chkwon.net) 연결 — 4단계 관점이 이 장에 적용 ([Ch.3](./chapter_16_breakdown_cycle.md)). [엄태웅 대표 「뒤쳐질 행복」](https://gradschoolstory.chkwon.net) 연결 — *뒤쳐질 권리*가 이 장에서 *모르는 권리*로 옮겨짐 ([Ch.2](./chapter_15_comparison_trap.md)). 김세정 교수 (2022) §1 연결 — *실패한 날 = 진척의 한 단위*가 *모르는 날 = 박사의 일*로 옮겨짐 ([Ch.3](./chapter_16_breakdown_cycle.md)). give-first 작은 단위 관점은 [Part 3 Ch.3](./chapter_09_give_first.md) §2에서. 외부 자원 목록은 [Ch.6 (정신건강)](./chapter_19_mental_health.md) §3-§4의 운영 관점을 참조.
+**출처.** 1차 이 장에서는 내부 좌표 vs 외부 좌표 분리 관점, 박사 단계별 양상 3종, *기본 무지* vs *이미 알아야 한다* 관점, 작은 기여의 자료 관점, 분야 적용 사례. 2차 [권창현 교수 G2 「대학원에서 닥쳐오는 멘붕의 파도」](https://gradschoolstory.chkwon.net/changhyun/%eb%8c%80%ed%95%99%ec%9b%90%ec%97%90%ec%84%9c-%eb%8b%a5%ec%b3%90%ec%98%a4%eb%8a%94-%eb%a9%98%eb%b6%95%ec%9d%98-%ed%8c%8c%eb%8f%84/) 연결 — 4단계 관점이 이 장에 적용 ([Ch.3](./chapter_16_breakdown_cycle.md)). [엄태웅 대표 「뒤쳐질 행복」](https://gradschoolstory.chkwon.net/terry/leavemebehind/) 연결 — *뒤쳐질 권리*가 이 장에서 *모르는 권리*로 옮겨짐 ([Ch.2](./chapter_15_comparison_trap.md)). 김세정 교수 (2022) §1 연결 — *실패한 날 = 진척의 한 단위*가 *모르는 날 = 박사의 일*로 옮겨짐 ([Ch.3](./chapter_16_breakdown_cycle.md)). give-first 작은 단위 관점은 [Part 3 Ch.3](./chapter_09_give_first.md) §2에서. 외부 자원 목록은 [Ch.6 (정신건강)](./chapter_19_mental_health.md) §3-§4의 운영 관점을 참조.
 
 다음: [Ch.1 — 후배를 키운다 (Part 5 시작)](./chapter_21_mentor_juniors.md)

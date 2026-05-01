@@ -86,6 +86,6 @@
 
 다음 챕터는 진로 결정에서 학생이 자주 빠지는 한 환상 — *어느 좌표에 가면 안정이 보장된다*는 환상 — 을 다룬다. 교수직도 산업도 박사후도, 어느 좌표도 안정을 발급하지 않는다.
 
-**출처.** [권창현 교수 「교수처럼 말하고 행동하라」](https://gradschoolstory.chkwon.net)가 1차. *잘못된 질문 vs 옳은 질문*의 thesis, 자기 소개·5년 plan·일과의 세 항목 구조, *이미 교수처럼 살고 있는가의 검증*이라는 면접 관점은 모두 여기서 가져왔다. *Tomorrow's Professor* (Richard Reis)와 *A PhD Is Not Enough!* (Peter J. Feibelman)는 제목·저자·소개만 명시했다(본문 fetch 없음). 지도교수 질문 목록, *책을 점검표로 쓰는* 활용법, 진로 결정 그 자체를 이 장의 목적으로 두는 관점은 이 장에서 정리했다.
+**출처.** [권창현 교수 「교수처럼 말하고 행동하라」](https://gradschoolstory.chkwon.net/changhyun/%ea%b5%90%ec%88%98%ec%b2%98%eb%9f%bc-%eb%a7%80%ed%95%98%ea%b3%a0-%ed%96%89%eb%8f%99%ed%95%98%eb%8a%94-%ec%82%ac%eb%9e%8c%ec%9d%b4-%ea%b5%90%ec%88%98%ea%b0%80-%eb%90%9c%eb%8b%a4/)가 1차. *잘못된 질문 vs 옳은 질문*의 thesis, 자기 소개·5년 plan·일과의 세 항목 구조, *이미 교수처럼 살고 있는가의 검증*이라는 면접 관점은 모두 여기서 가져왔다. *Tomorrow's Professor* (Richard Reis)와 *A PhD Is Not Enough!* (Peter J. Feibelman)는 제목·저자·소개만 명시했다(본문 fetch 없음). 지도교수 질문 목록, *책을 점검표로 쓰는* 활용법, 진로 결정 그 자체를 이 장의 목적으로 두는 관점은 이 장에서 정리했다.
 
 다음: [Ch.3 — 안정은 환상이다](./chapter_23_no_stability.md)

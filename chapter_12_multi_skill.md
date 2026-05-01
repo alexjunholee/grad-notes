@@ -102,6 +102,6 @@
 
 ---
 
-**출처.** [최윤섭 박사 G4 「좋은 연구자란 무엇인가」](https://gradschoolstory.chkwon.net), [엄태웅 대표 G2 「대학원생의 4가지 덕목」](https://gradschoolstory.chkwon.net), 「연구노트」 [Ch.16](../research-notes/chapter_16_mindset.md) · [Ch.33](../research-notes/chapter_33_conference_roi.md) · [Ch.3](../research-notes/chapter_03_ownership_shift.md). 5 자질·4 덕목 결합 출력 관점, 가장 낮은 한 칸 = 다음 1년의 우선순위, 9칸 점수표 매년 갱신은 이 장에서 정리했다.
+**출처.** [최윤섭 박사 G4 「좋은 연구자란 무엇인가」](https://gradschoolstory.chkwon.net/yoonsup/to-be-a-good-researcher/), [엄태웅 대표 G2 「대학원생의 4가지 덕목」](https://gradschoolstory.chkwon.net/terry/four_virtues/), 「연구노트」 [Ch.16](../research-notes/chapter_16_mindset.md) · [Ch.33](../research-notes/chapter_33_conference_roi.md) · [Ch.3](../research-notes/chapter_03_ownership_shift.md). 5 자질·4 덕목 결합 출력 관점, 가장 낮은 한 칸 = 다음 1년의 우선순위, 9칸 점수표 매년 갱신은 이 장에서 정리했다.
 
 다음: [Part 4 Ch.1 — 자율성의 무게](./chapter_14_autonomy_weight.md)

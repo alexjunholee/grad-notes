@@ -124,6 +124,6 @@
 
 ---
 
-**출처.** [권창현 교수 G7 「연구와 장비병」](https://gradschoolstory.chkwon.net), 「연구노트」 [Part 0 ch02 (Feynman 3-step)](../research-notes/chapter_02_feynman_problem.md), robotics-practice ch22 § 22.3 (분야 도구 층위), robotics-practice ch21 § 생존 마인드셋 (*작은 코드 조각부터*의 분야 쪽 논의). 청진기 일화·사진 취미 비유는 권창현 교수 글의 의역. 가짜 진척 3 신호·시간 분배 4칸 점검·결과 5개 자기 진단은 이 장에서 정리했다.
+**출처.** [권창현 교수 G7 「연구와 장비병」](https://gradschoolstory.chkwon.net/changhyun/%ec%97%b0%ea%b5%ac%ec%99%80-%ec%9e%a5%eb%b9%84%eb%b3%91/), 「연구노트」 [Part 0 ch02 (Feynman 3-step)](../research-notes/chapter_02_feynman_problem.md), robotics-practice ch22 § 22.3 (분야 도구 층위), robotics-practice ch21 § 생존 마인드셋 (*작은 코드 조각부터*의 분야 쪽 논의). 청진기 일화·사진 취미 비유는 권창현 교수 글의 의역. 가짜 진척 3 신호·시간 분배 4칸 점검·결과 5개 자기 진단은 이 장에서 정리했다.
 
 다음: [Ch.6 — 연구자의 다층 역량](./chapter_12_multi_skill.md)

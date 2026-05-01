@@ -113,6 +113,6 @@
 
 ---
 
-**출처.** [최윤섭 박사 「대학원생의 시간 관리」](https://gradschoolstory.chkwon.net). 4사분면 매트릭스는 일반 관점을 박사 과정 시간 운영에 적용한 변주. robotics-practice ch21 § 생존 마인드셋 — *과거의 내가 미래의 나를 도와준다* 분야 쪽 논의. 진입 비용 0의 관점, 4번째 프로젝트의 *비용* 표현은 이 장에서 정리했다.
+**출처.** [최윤섭 박사 「대학원생의 시간 관리」](https://gradschoolstory.chkwon.net/yoonsup/time-management/). 4사분면 매트릭스는 일반 관점을 박사 과정 시간 운영에 적용한 변주. robotics-practice ch21 § 생존 마인드셋 — *과거의 내가 미래의 나를 도와준다* 분야 쪽 논의. 진입 비용 0의 관점, 4번째 프로젝트의 *비용* 표현은 이 장에서 정리했다.
 
 다음: [Ch.3 — 먼저 베푸는 협업](./chapter_09_give_first.md)
