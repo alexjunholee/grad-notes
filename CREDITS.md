@@ -4,24 +4,24 @@
 
 ## 한국어 대학원 회고와 조언
 
-- 엄태웅 대표, 최윤섭 박사, 권창현 교수의 *대학원생 때 알았더라면 좋았을 것들* 1권 ([gradschoolstory 연재](https://gradschoolstory.chkwon.net))
-- 김세정 교수, 윤은정 교수, 유두희 박사의 *대학원생 때 알았더라면 좋았을 것들* 2권
+- 엄태웅 대표, 최윤섭 박사, 권창현 교수의 대학원생 때 알았더라면 좋았을 것들 1권 ([gradschoolstory 연재](https://gradschoolstory.chkwon.net))
+- 김세정 교수, 윤은정 교수, 유두희 박사의 대학원생 때 알았더라면 좋았을 것들 2권
 - 김기섭 교수의 [gsk1m.github.io](https://gsk1m.github.io/)와 [gisbi-kim.github.io](https://gisbi-kim.github.io/) 글들
 - 임형태 박사와 현동진 박사의 연구 운영, 자율성, 연구 생활에 관한 글과 강의
 
 ## 해외 박사과정과 학계 생존 기록
 
-- Philip Guo, [*The PhD Grind*](https://pgbovine.net/PhD-memoir.htm)
-- Matt Might, [*The Illustrated Guide to a PhD*](https://matt.might.net/articles/phd-school-in-pictures/)
-- Richard M. Reis, *Tomorrow's Professor*
-- Peter J. Feibelman, *A PhD Is Not Enough!*
+- Philip Guo, [The PhD Grind](https://pgbovine.net/PhD-memoir.htm)
+- Matt Might, [The Illustrated Guide to a PhD](https://matt.might.net/articles/phd-school-in-pictures/)
+- Richard M. Reis, Tomorrow's Professor
+- Peter J. Feibelman, A PhD Is Not Enough!
 - Pauline Rose Clance, Suzanne Imes의 impostor phenomenon 연구
 
 ## 연구와 글쓰기에서 넘어온 배경
 
 - George M. Whitesides, "Whitesides' Group: Writing a Paper"
 - Brett Mensh, Konrad Kording, "Ten Simple Rules for Structuring Papers"
-- Donald E. Knuth, Tracy Larrabee, Paul M. Roberts, *Mathematical Writing*
+- Donald E. Knuth, Tracy Larrabee, Paul M. Roberts, Mathematical Writing
 - S. Keshav, "How to Read a Paper"
 - George D. Gopen, Judith A. Swan, "The Science of Scientific Writing"
 
