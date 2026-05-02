@@ -82,13 +82,13 @@
 | **제목** | `quick question for XXXXX case study` | `Figure` |
 | **본문** | `Dear Dr. Lastname,` <br><br> `I'm working on the XXXXX case study and reached the section on the boundary condition. I tried two approaches: (a) fixing the upstream pressure to the measured value, (b) fixing the mass flow rate.` <br><br> `Approach (a) gives a stable solution but the downstream profile mismatches Fig. 3 of [paper]. Approach (b) reproduces Fig. 3 but the solver oscillates.` <br><br> `Quick question — is it acceptable to start with (a) for the draft and add (b) as a sensitivity check, or do you want (b) first?` <br><br> `Best Regards,` <br> `[Name, lab, affiliation]` | `Hi,` <br><br> `Please check the diagram. It's not the same as we expected.` <br><br> `Thanks.` |
 
-좋은 메일에는 세 단위가 다 있다. 배경(XXXXX case study의 boundary condition 섹션) — 시도(approach a, approach b 두 시도와 각각의 결과) — 질문(draft에는 a로 가고 b는 sensitivity check로, 아니면 b 먼저?). 받는 사람이 본문을 한 번 읽고 one of two로 답할 수 있는 모양이다.
+좋은 메일에는 세 단위가 다 있다. 배경(XXXXX case study의 boundary condition 섹션), 시도(approach a, approach b 두 시도와 각각의 결과), 질문(draft에는 a로 가고 b는 sensitivity check로, 아니면 b 먼저?). 받는 사람이 본문을 한 번 읽고 one of two로 답할 수 있는 모양이다.
 
-나쁜 메일에는 셋 다 없다. 어느 figure인지 — 어느 diagram인지 — 무엇이 expected가 아닌지 — 셋 다 빠져 있다. 받는 사람이 답하려면 본인이 그 셋을 다시 추적해야 하고, 추적 비용이 답할 시간보다 크면 메일은 답이 안 돌아온다.
+나쁜 메일에는 셋 다 없다. 어느 figure인지, 어느 diagram인지, 무엇이 expected가 아닌지, 셋 다 빠져 있다. 받는 사람이 답하려면 본인이 그 셋을 다시 추적해야 하고, 추적 비용이 답할 시간보다 크면 메일은 답이 안 돌아온다.
 
-두 메일의 차이는 수신자 인지 부하에 대한 자각에 있다. 자각은 학습 가능하다. 본인의 메일을 보내기 직전에 받는 사람이 이 메일만 보고 답할 수 있는가를 한 번 묻는 습관이 두 사례의 분기점을 만든다.
+두 메일의 차이는 수신자 인지 부하의 자각에 있다. 자각은 학습 가능하다. 본인의 메일을 보내기 직전에 받는 사람이 이 메일만 보고 답할 수 있는가를 한 번 묻는 습관이 두 사례의 분기점을 만든다.
 
-자각의 보조 도구로 24시간 후 다시 읽기가 있다 — [Part 2 Ch.2](./chapter_05_signal_reading.md)에서 이미 쓴 단위다. 보낸 직후의 메일은 본인 의도가 글자에 덧입혀져 보이는 한편, 24시간 후의 본인은 그 메일을 처음 읽는 교수에 가깝다. 그 시점에 어느 figure인지 안 잡히면 교수도 안 잡혔다는 뜻이고, 그 메일은 이미 보낸 메일에 대한 후회 자료로 굳는다 — 다음 메일의 단위를 잡을 입력값이 된다.
+자각의 보조 도구로 24시간 후 다시 읽기가 있다 — [Part 2 Ch.2](./chapter_05_signal_reading.md)에서 이미 쓴 단위다. 보낸 직후의 메일은 본인 의도가 글자에 덧입혀져 보이는 한편, 24시간 후의 본인은 그 메일을 처음 읽는 교수에 가깝다. 그 시점에 어느 figure인지 안 잡히면 교수도 안 잡혔다는 뜻이고, 그 메일은 이미 보낸 메일의 후회 자료로 굳는다 — 다음 메일의 단위를 잡을 입력값이 된다.
 
 ---
 
