@@ -150,6 +150,6 @@
 
 ---
 
-**출처.** [엄태웅 대표 G2 「내게 뒤쳐질 수 있는 행복을 허락하라」](https://gradschoolstory.chkwon.net/terry/leavemebehind/) — 오래 달리는 사람·가장 큰 적은 자기 자신·조금은 게으름 한 줄, 채찍 맞는 말 비유의 원형. 김세정 교수 (2022) 「대학원생 때 알았더라면 좋았을 것들 2」 §3 「어떻게 성적을 최상위권으로」 — 천재 관점을 통한 자기 정당화 인용. [김기섭 교수 「연구길의 초입에서」](https://gsk1m.github.io/productivity/2024/05/25/entering-research.html) — 꾸준함이 평균선의 자리 관점. [Philip Guo (2012) The PhD Grind Epilogue](https://pgbovine.net/PhD-memoir.htm) — 입학 좌표가 5년차 평균선이 아니다 참조 (§ 2). [「연구노트」 Part 2 A ch01(마음가짐)](../research-notes/chapter_16_mindset.md) — accept 천장이 없는 글의 관점이 이 장의 5년 페이스 관점과 정합. robotics-practice ch21 § 생존 마인드셋 — 3개월 후의 나라는 시간 단위 분야 쪽 논의. 이 장에서는 자기 평균선 다시 그리기 관점, 채찍 맞는 말 비유의 한 줄 정리, 비교를 끄는 일상 도구의 목록화, 느려도 되는 시기의 학년별 명시.
+**출처.** [엄태웅 대표 G2 「내게 뒤쳐질 수 있는 행복을 허락하라」](https://gradschoolstory.chkwon.net/terry/leavemebehind/) — 오래 달리는 사람·가장 큰 적은 자기 자신·조금은 게으름 한 줄, 채찍 맞는 말 비유의 원형. 김세정 교수 (2022) 「대학원생 때 알았더라면 좋았을 것들 2」 §3 「어떻게 성적을 최상위권으로」 — 천재 관점을 통한 자기 정당화 인용. [김기섭 교수 「연구길의 초입에서」](https://gsk1m.github.io/productivity/2024/05/25/entering-research.html) — 꾸준함이 평균선의 자리 관점. [Philip Guo (2012) The PhD Grind Epilogue](https://pgbovine.net/PhD-memoir.htm) — 입학 좌표가 5년차 평균선이 아니다 참조 (§ 2). [「연구노트」 Part 2 A ch01(마음가짐)](../research-notes/chapter_16_mindset.md) — accept 천장이 없는 글의 관점이 이 장의 5년 페이스 관점과 정합. robotics-practice ch21 § 생존 마인드셋 — 3개월 후의 나라는 시간 단위 분야 쪽 논의. 본문에는 자기 평균선 다시 그리기 관점, 채찍 맞는 말 비유의 한 줄 정리, 비교를 끄는 일상 도구의 목록화, 느려도 되는 시기의 학년별 명시를 반영했다.
 
 다음: [Ch.3 — 멘붕의 사이클](./chapter_16_breakdown_cycle.md)

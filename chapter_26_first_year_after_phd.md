@@ -28,7 +28,7 @@
 
 1년차 끝에 다음 단계(faculty job market·산업계) 결정 자료가 있어야 한다. 자료가 비어 있으면 2년차의 운영이 결정 미루기로 굳고, 결정 미루기는 3년차의 선택지를 좁힌다. 포닥 1년차에 2년차 끝의 결정을 위한 자료 누적이 기본 운영에 가깝다.
 
-**산업계.** 첫 3개월 — onboarding·sprint 호흡 학습. 박사 5년의 5년 호흡과 산업계의 2주 sprint 호흡의 차이가 가장 큰 마찰 지점이다. 박사가 한 자리 깊이를 5년에 걸쳐 풀어 가는 운영이라면, 산업계 sprint는 결과 한 건을 2주 안에 풀어 다음 단계로 옮기는 운영이다. 두 운영이 다른 관점 위에 있어서, 박사 5년 호흡을 산업계 sprint에 그대로 적용하면 한 sprint도 끝나지 않는다.
+**산업계.** 첫 3개월 — onboarding·sprint 호흡 학습. 박사 5년의 5년 호흡과 산업계의 2주 sprint 호흡의 차이가 가장 큰 마찰 지점이다. 박사가 한 자리 깊이를 5년에 걸쳐 풀어 가는 운영이라면, 산업계 sprint는 결과 한 건을 2주 안에 풀어 다음 단계로 옮기는 운영이다. 두 운영의 기준이 달라서, 박사 5년 호흡을 산업계 sprint에 그대로 적용하면 한 sprint도 끝나지 않는다.
 
 첫 1년 안에 한 product cycle 1회 도는 일이 기본이다. 1회 돌고 나면 본인의 운영이 sprint 호흡에 한 단계 적응한다. 이 단계에서 본인이 박사 5년에 누적한 깊이의 자료가 sprint의 작은 단위에서 어떻게 운영되는가를 익히는 일이 첫 1년의 핵심에 가깝다. [Ch.25 — 산업계 일상](./chapter_25_industry_daily.md)과 연결.
 
@@ -122,6 +122,6 @@
 
 ---
 
-**출처.** 1차 이 장에서는 졸업 = 다음 단계 시작 관점, 진로 갈래 4의 첫 1년 운영 단위, 정체성 전환 3 층위 (호칭·affiliation·자기 관점), 박사 시절 자산 4축 (논문·코드·관계·평판), 흔한 함정 3, 처방 층위 3 (첫 3개월·관계 보호·5년 좌표 갱신). 2차 [엄태웅 대표 「에필로그 — 안정적인 삶」](https://gradschoolstory.chkwon.net/terry/epilog_terry_stablelife/) 연결 — 불안정이 기본 mode 관점이 졸업 시점에 다시 적용 ([Ch.3](./chapter_23_no_stability.md)). [권창현 교수 「에필로그 — 뭘 해도 불안하다」](https://gradschoolstory.chkwon.net/changhyun/%ec%97%90%ed%95%84%eb%a1%9c%ea%b7%b8-%eb%ad%98-%ed%95%b4%eb%8f%84-%eb%b6%88%ec%95%88%ed%95%98%eb%8b%a4/) 연결 — 알아도 걱정, 몰라도 걱정 관점 ([Ch.3](./chapter_23_no_stability.md)). [권창현 교수 「교수처럼 행동」](https://gradschoolstory.chkwon.net/changhyun/%ea%b5%90%ec%88%98%ec%b2%98%eb%9f%bc-%eb%a7%80%ed%95%98%ea%b3%a0-%ed%96%89%eb%8f%99%ed%95%98%eb%8a%94-%ec%82%ac%eb%9e%8c%ec%9d%b4-%ea%b5%90%ec%88%98%ea%b0%80-%eb%90%9c%eb%8b%a4/) 연결 — 교수 갈래의 교수처럼 행동 관점이 1년차의 기본 운영으로 옮겨짐 ([Ch.2](./chapter_22_professor_daily.md)). give-first 한 줄 단위 관점은 [Part 3 Ch.3](./chapter_09_give_first.md)에서. 후배 인수인계 지도 관점은 [Ch.1](./chapter_21_mentor_juniors.md) §5에서. 임포스터 관점의 정체성 전환 변형은 [Part 4 Ch.7](./chapter_20_imposter_syndrome.md)에서.
+**출처.** 1차: 졸업 = 다음 단계 시작 관점, 진로 갈래 4의 첫 1년 운영 단위, 정체성 전환 3 층위 (호칭·affiliation·자기 관점), 박사 시절 자산 4축 (논문·코드·관계·평판), 흔한 함정 3, 처방 층위 3 (첫 3개월·관계 보호·5년 좌표 갱신). 2차 [엄태웅 대표 「에필로그 — 안정적인 삶」](https://gradschoolstory.chkwon.net/terry/epilog_terry_stablelife/) 연결 — 불안정이 기본 mode 관점이 졸업 시점에 다시 적용 ([Ch.3](./chapter_23_no_stability.md)). [권창현 교수 「에필로그 — 뭘 해도 불안하다」](https://gradschoolstory.chkwon.net/changhyun/%ec%97%90%ed%95%84%eb%a1%9c%ea%b7%b8-%eb%ad%98-%ed%95%b4%eb%8f%84-%eb%b6%88%ec%95%88%ed%95%98%eb%8b%a4/) 연결 — 알아도 걱정, 몰라도 걱정 관점 ([Ch.3](./chapter_23_no_stability.md)). [권창현 교수 「교수처럼 행동」](https://gradschoolstory.chkwon.net/changhyun/%ea%b5%90%ec%88%98%ec%b2%98%eb%9f%bc-%eb%a7%80%ed%95%98%ea%b3%a0-%ed%96%89%eb%8f%99%ed%95%98%eb%8a%94-%ec%82%ac%eb%9e%8c%ec%9d%b4-%ea%b5%90%ec%88%98%ea%b0%80-%eb%90%9c%eb%8b%a4/) 연결 — 교수 갈래의 교수처럼 행동 관점이 1년차의 기본 운영으로 옮겨짐 ([Ch.2](./chapter_22_professor_daily.md)). give-first 한 줄 단위 관점은 [Part 3 Ch.3](./chapter_09_give_first.md)에서. 후배 인수인계 지도 관점은 [Ch.1](./chapter_21_mentor_juniors.md) §5에서. 임포스터 관점의 정체성 전환 변형은 [Part 4 Ch.7](./chapter_20_imposter_syndrome.md)에서.
 
 다음: 「대학원노트」 끝.

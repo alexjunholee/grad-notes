@@ -136,6 +136,6 @@ horizon 확장이 곧 애티튜드다. 똑똑한 사람이 빠른 건 맞지만,
 
 ---
 
-**출처.** [엄태웅 대표 G2 「자기관리가 대학원 생활의 전부다」](https://gradschoolstory.chkwon.net/terry/%ec%9e%90%ea%b8%b0%ea%b4%80%eb%a6%ac/), [「연구노트」 Part 2 A ch01(마음가짐)](../research-notes/chapter_16_mindset.md) — 문체 기준·자율성 관점의 원형. 현동진 박사 (Hyundai Motor Company Robotics LAB) — optimization horizon 한 줄 관점. robotics-practice ch21 § 생존 마인드셋 — 모르는 자리의 정상화 분야 쪽 논의. [Philip Guo (2012) The PhD Grind Year 4-5](https://pgbovine.net/PhD-memoir.htm) — 자유가 저주가 되는 자리 참조 (§ 1). 이 장에서는 자기 채점표로서의 시간 ledger 관점, 지도교수 위상 전환의 학년별 표지, 자기 한 줄의 갱신 곡선.
+**출처.** [엄태웅 대표 G2 「자기관리가 대학원 생활의 전부다」](https://gradschoolstory.chkwon.net/terry/%ec%9e%90%ea%b8%b0%ea%b4%80%eb%a6%ac/), [「연구노트」 Part 2 A ch01(마음가짐)](../research-notes/chapter_16_mindset.md) — 문체 기준·자율성 관점의 원형. 현동진 박사 (Hyundai Motor Company Robotics LAB) — optimization horizon 한 줄 관점. robotics-practice ch21 § 생존 마인드셋 — 모르는 자리의 정상화 분야 쪽 논의. [Philip Guo (2012) The PhD Grind Year 4-5](https://pgbovine.net/PhD-memoir.htm) — 자유가 저주가 되는 자리 참조 (§ 1). 본문에는 자기 채점표로서의 시간 ledger 관점, 지도교수 위상 전환의 학년별 표지, 자기 한 줄의 갱신 곡선을 반영했다.
 
 다음: [Ch.2 — 비교의 함정](./chapter_15_comparison_trap.md)
