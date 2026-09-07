@@ -60,7 +60,6 @@ body {
   height: var(--progress-height);
   background: linear-gradient(90deg, #0071e3, #2997ff);
   z-index: 10000;
-  transition: width 0.1s linear;
   width: 0%;
 }
 
@@ -523,7 +522,7 @@ mark.search-highlight {
   font-size: 24px !important;
   line-height: 1.18 !important;
 }
-.about-document h4 {
+.about-document h3 {
   color: var(--link) !important;
   margin-top: 22px !important;
 }
@@ -602,7 +601,8 @@ mark.search-highlight {
   border-bottom: 1px solid var(--border);
 }
 
-.guide-overview + .part-intro { margin-top: 70px; }
+.guide-overview + .part-intro,
+.about-document + .part-intro { margin-top: 70px; }
 
 #content .part-kicker {
   color: var(--accent);
@@ -670,7 +670,6 @@ mark.search-highlight {
 
   #sidebar {
     transform: translateX(-100%);
-    transition: transform 0.3s ease;
     box-shadow: none;
   }
 
@@ -724,7 +723,7 @@ mark.search-highlight {
 <div id="progress-bar"></div>
 
 <div id="topbar">
-  <button class="menu-toggle" id="menu-toggle" aria-label="Toggle navigation">&#9776;</button>
+  <button class="menu-toggle" id="menu-toggle" aria-label="목차" aria-controls="sidebar" aria-expanded="false">&#9776;</button>
   <span class="title" id="topbar-title">Grad Notes</span>
   <div class="lang-toggle" id="lang-toggle" aria-hidden="true"></div>
   <a href="../" class="back-link">← repos</a>
@@ -732,9 +731,9 @@ mark.search-highlight {
 
 <div id="sidebar-overlay"></div>
 
-<nav id="sidebar">
+<nav id="sidebar" aria-label="문서 목차">
   <div id="search-box">
-    <input type="text" id="search-input" placeholder="챕터/섹션 검색... (Ctrl+K)">
+    <input type="text" id="search-input" aria-label="챕터 및 섹션 검색" placeholder="챕터/섹션 검색... (Ctrl+K)">
   </div>
   <div id="toc-container"></div>
   <div class="toc-no-results" id="toc-no-results">검색 결과 없음</div>
@@ -752,7 +751,7 @@ mark.search-highlight {
 <div class="about-document">
 <h2>About This Document</h2>
 
-<h4>출처 자료</h4>
+<h3>출처 자료</h3>
 <p>『대학원생 때 알았더라면 좋았을 것들』 1·2권을 중심에 두고, 해외 박사과정 기록과 연구 글쓰기 자료, 자매 연구노트의 관점을 함께 참고했다.</p>
 
 <table>
@@ -763,8 +762,8 @@ mark.search-highlight {
 <tr><td>연구 글쓰기</td><td>Whitesides, Mensh & Kording, Knuth, Keshav, Gopen & Swan</td><td>논문 쓰기와 지도교수 협업을 운영 단위로 바라보는 배경</td></tr>
 </table>
 
-<h4>범위</h4>
-<p>본문은 박사를 결정하는 순간에서 시작해, 지도교수와 연구실, 시간과 협업, 비교와 실패, 정신건강, 후배 멘토링, 학계와 산업계 진로, 졸업 후 첫 1년까지 이어진다. 박사과정을 한 사람이 통과하는 긴 운영으로 읽는 것이 이 문서의 목적이다.</p>
+<h3>범위</h3>
+<p>본문은 박사과정 진학을 결정하는 순간에서 시작해, 지도교수와 연구실, 시간과 협업, 비교와 실패, 정신건강, 후배 멘토링, 학계와 산업계 진로, 졸업 후 첫 1년까지 이어진다. 이 문서에서는 박사과정을 한 사람이 오랫동안 이어 가야 하는 운영의 문제로 본다.</p>
 
 <p class="source-tag">자매 문서: <a href="../research-notes/guide.html">연구노트</a> · <a href="../robotics-practice/guide.html">robotics-practice</a></p>
 </div>
@@ -787,28 +786,28 @@ mark.search-highlight {
   var STORAGE_KEY = "grad-notes-lang";
   var CHAPTER_GROUPS = [
     {
-      label: "Part 1 · 박사는 조건보다 5년의 운영 방식을 고르는 일이다",
-      intro: "박사과정의 첫 결정은 학교 이름보다 5년의 운영 방식을 고르는 일에 가깝다. 이 Part는 진학 이유, 환경 선택, 다른 분야의 시간 단위까지 결정의 바닥을 먼저 정리한다.",
+      label: "1부 · 박사는 조건보다 5년의 운영 방식을 고르는 일이다",
+      intro: "박사과정의 첫 결정은 학교 이름보다 5년의 운영 방식을 고르는 일에 가깝다. 이 부에서는 진학 이유, 환경 선택, 다른 분야의 시간 단위까지 결정의 바닥을 먼저 정리한다.",
       items: [{"kind":"chapter","num":1},{"kind":"chapter","num":2},{"kind":"chapter","num":3}]
     },
     {
-      label: "Part 2 · 지도교수 관계는 주어지는 환경이 아니라 함께 만드는 시스템이다",
-      intro: "지도교수 관계는 주어지는 환경이 아니라 함께 만드는 시스템이다. 이 Part는 좋은 관계의 신호, 나쁜 신호의 읽기, 갈등이 커지기 전의 정비 단위를 다룬다.",
+      label: "2부 · 지도교수 관계는 주어지는 환경이 아니라 함께 만드는 시스템이다",
+      intro: "지도교수 관계는 주어지는 환경이 아니라 함께 만드는 시스템이다. 이 부에서는 좋은 관계의 신호, 나쁜 신호를 읽는 법, 갈등이 커지기 전의 정비 단위를 다룬다.",
       items: [{"kind":"chapter","num":4},{"kind":"chapter","num":5},{"kind":"chapter","num":6}]
     },
     {
-      label: "Part 3 · 자율성은 시간·협업·도구의 구조에서 생긴다",
-      intro: "자율성은 자유 시간이 많아서 생기지 않는다. 내 연구를 자기 손으로 만들고, 시간을 덩어리로 지키고, 협업과 도구를 문제 뒤에 세우는 구조에서 생긴다.",
+      label: "3부 · 자율성은 시간·협업·도구의 구조에서 생긴다",
+      intro: "자율성은 자유 시간이 많아서 생기지 않는다. 자기 연구를 자기 손으로 만들고, 시간을 덩어리로 지키고, 협업과 도구를 문제 뒤에 세우는 구조에서 생긴다.",
       items: [{"kind":"chapter","num":7},{"kind":"chapter","num":8},{"kind":"chapter","num":9},{"kind":"chapter","num":10},{"kind":"chapter","num":11},{"kind":"chapter","num":12},{"kind":"chapter","num":13}]
     },
     {
-      label: "Part 4 · 감정과 삶의 흔들림도 운영의 일부다",
-      intro: "감정과 삶의 흔들림은 연구의 바깥일이 아니다. 비교, 멘붕, 통합, 정신건강, 임포스터 감각을 운영의 일부로 읽어야 5년의 페이스가 무너지지 않는다.",
+      label: "4부 · 감정과 삶의 흔들림도 운영의 일부다",
+      intro: "감정과 삶의 흔들림은 연구의 바깥일이 아니다. 비교, 멘붕, 삶의 통합, 정신건강, 임포스터 감각을 운영의 일부로 읽어야 5년의 페이스가 무너지지 않는다.",
       items: [{"kind":"chapter","num":14},{"kind":"chapter","num":15},{"kind":"chapter","num":16},{"kind":"chapter","num":17},{"kind":"chapter","num":18},{"kind":"chapter","num":19},{"kind":"chapter","num":20}]
     },
     {
-      label: "Part 5 · 졸업은 안정이 아니라 다음 역할의 시작이다",
-      intro: "졸업은 안정의 도착점이 아니라 다음 역할의 시작이다. 후배를 키우고, 교수와 산업계의 일상을 읽고, 해외 임용과 졸업 후 첫 1년을 다음 운영으로 넘긴다.",
+      label: "5부 · 졸업은 안정이 아니라 다음 역할의 시작이다",
+      intro: "졸업은 안정의 도착점이 아니라 다음 역할의 시작이다. 후배를 키우고, 교수와 산업계의 일상을 읽고, 해외 임용과 졸업 후 첫 1년을 다음 단계의 운영으로 이어 간다.",
       items: [{"kind":"chapter","num":21},{"kind":"chapter","num":22},{"kind":"chapter","num":23},{"kind":"chapter","num":24},{"kind":"chapter","num":25},{"kind":"chapter","num":26}]
     }
   ];
@@ -926,7 +925,7 @@ mark.search-highlight {
       if (!first) return;
 
       var meta = parseGroupLabel(group.label);
-      var partId = 'part-' + index + '-' + slugify(meta.title);
+      var partId = 'part-' + (index + 1) + '-' + slugify(meta.title);
       if (document.getElementById(partId)) return;
 
       var section = document.createElement('section');
@@ -965,6 +964,13 @@ mark.search-highlight {
       var html = marked.parse(mathData.src);
       html = restoreAndRenderMath(html, mathData.placeholders);
       contentEl.innerHTML = html;
+      contentEl.querySelectorAll('a[href]').forEach(function(link) {
+        var url = new URL(link.getAttribute('href'), window.location.href);
+        if ((url.protocol === 'http:' || url.protocol === 'https:') && url.origin !== window.location.origin) {
+          link.target = '_blank';
+          link.rel = 'noopener';
+        }
+      });
 
       if (window.mermaid) {
         var mermaidBlocks = contentEl.querySelectorAll('pre > code.language-mermaid');
@@ -1054,6 +1060,8 @@ mark.search-highlight {
       groupEl.className = 'overview-group';
       var label = document.createElement('div');
       label.className = 'overview-group-label';
+      label.setAttribute('role', 'heading');
+      label.setAttribute('aria-level', '2');
       label.textContent = group.label;
       groupEl.appendChild(label);
       if (group.intro) {
@@ -1081,7 +1089,7 @@ mark.search-highlight {
     });
 
     var about = contentEl.querySelector('.about-document');
-    if (about) contentEl.insertBefore(overview, about.nextSibling);
+    if (about) contentEl.insertBefore(overview, about);
     else contentEl.insertBefore(overview, contentEl.firstChild);
   }
 
@@ -1225,8 +1233,9 @@ mark.search-highlight {
     var sidebar = document.getElementById('sidebar');
     var overlay = document.querySelector('#sidebar-overlay');
     toggle.addEventListener('click', function() {
-      sidebar.classList.toggle('open');
-      overlay.classList.toggle('visible');
+      var isOpen = sidebar.classList.toggle('open');
+      overlay.classList.toggle('visible', isOpen);
+      toggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
     });
     overlay.addEventListener('click', closeMobileSidebar);
   }
@@ -1234,6 +1243,7 @@ mark.search-highlight {
   function closeMobileSidebar() {
     document.getElementById('sidebar').classList.remove('open');
     document.querySelector('#sidebar-overlay').classList.remove('visible');
+    document.getElementById('menu-toggle').setAttribute('aria-expanded', 'false');
   }
 
   function setupKeyboard() {
