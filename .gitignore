@@ -7,3 +7,6 @@ STYLE*.md
 writing-status.json
 *.pdf
 .DS_Store
+
+# 문체 카드 (워크스페이스 로컬 전용)
+VOICE_CARD.md
