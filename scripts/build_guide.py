@@ -23,8 +23,13 @@ TEXTAREA_RE = re.compile(
 )
 
 
+# Reading order (TOC A): old 13 (industry path) moves to 20장.
+ORDER = list(range(1, 13)) + list(range(14, 21)) + [13] + list(range(21, 27))
+
+
 def chapter_files() -> list[Path]:
-    files = sorted(ROOT.glob("chapter_*.md"))
+    by_num = {int(f.name.split("_")[1]): f for f in ROOT.glob("chapter_*.md")}
+    files = [by_num[n] for n in ORDER if n in by_num]
     if len(files) != 26:
         raise RuntimeError(f"expected 26 chapters, found {len(files)}")
     return files

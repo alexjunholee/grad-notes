@@ -1,6 +1,6 @@
 # 참고한 자료와 감사
 
-이 책은 아래 자료에서 많은 것을 배웠다. 본문은 박사과정 5년을 보내는 순서에 맞춰 여러 글의 생각을 다시 엮었다. 그래서 장마다 기댄 자료를 각 장 끝에 적고, 여기에는 책 전체가 빚진 자료를 모았다. 원저자의 생각은 원래 글에서 읽을 때 가장 정확하다.
+이 책은 아래 자료에서 배운 생각을 박사과정 5년의 흐름에 맞춰 다시 엮은 안내서다. 장마다 직접 참고한 글은 각 장 끝에 달아 두었고, 여기에는 책 전체가 빚진 자료를 모았다. 원저자의 온전한 맥락을 느끼려면 가급적 원래 글도 함께 읽어 보기를 권한다.
 
 ## 한국어 대학원 회고와 조언
 
@@ -21,7 +21,7 @@
 - George M. Whitesides, "Whitesides' Group: Writing a Paper" (2004)
 - Brett Mensh, Konrad Kording, "Ten Simple Rules for Structuring Papers" (2017)
 - Donald E. Knuth, Tracy Larrabee, Paul M. Roberts, *Mathematical Writing*
-- 임형태 박사, [paper-writing-checklist](https://github.com/LimHyungTae/paper-writing-checklist) (「연구노트」 Ch.16을 거쳐 Ch.14·15·17에서 참고)
+- 임형태 박사, [paper-writing-checklist](https://github.com/LimHyungTae/paper-writing-checklist) (「연구노트」 Ch.16을 거쳐 Ch.14에서 참고)
 
 ## 정신건강과 위기 지원
 
