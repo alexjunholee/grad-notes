@@ -589,7 +589,7 @@ mark.search-highlight {
   font-size: 12px;
   font-weight: 700;
   color: var(--accent);
-  margin-right: 10px;
+  margin-right: 6px;
   letter-spacing: 0.02em;
   text-transform: uppercase;
 }
@@ -791,17 +791,17 @@ mark.search-highlight {
       items: [{"kind":"chapter","num":1},{"kind":"chapter","num":2},{"kind":"chapter","num":3}]
     },
     {
-      label: "2부 · 지도교수",
+      label: "2부 · 지도교수와의 관계와 갈등",
       intro: "지도교수와 건강한 관계를 맺는 법, 학생의 행동이 교수 눈에 어떻게 읽히는지, 갈등이 생겼을 때 기록하고 대처하는 기준을 살핀다.",
       items: [{"kind":"chapter","num":4},{"kind":"chapter","num":5},{"kind":"chapter","num":6}]
     },
     {
-      label: "3부 · 연구 생활",
+      label: "3부 · 연구 주제, 시간, 협업, 도구",
       intro: "내 연구를 찾아가는 과정부터 시간 배분, 협업, 질문 메일 쓰기, 도구 함정 피하기, 연구자에게 필요한 여러 역량까지 차근히 풀어낸다.",
       items: [{"kind":"chapter","num":7},{"kind":"chapter","num":8},{"kind":"chapter","num":9},{"kind":"chapter","num":10},{"kind":"chapter","num":11},{"kind":"chapter","num":12}]
     },
     {
-      label: "4부 · 마음과 생활",
+      label: "4부 · 자율성, 비교, 정신건강",
       intro: "자율성의 무게와 남과의 비교, 거절 뒤의 회복, 삶과 연구의 균형, 여성 박사의 선택, 정신건강, 임포스터 증후군을 정면으로 마주한다.",
       items: [{"kind":"chapter","num":13},{"kind":"chapter","num":14},{"kind":"chapter","num":15},{"kind":"chapter","num":16},{"kind":"chapter","num":17},{"kind":"chapter","num":18},{"kind":"chapter","num":19}]
     },
@@ -1081,7 +1081,7 @@ mark.search-highlight {
         num.className = 'overview-chapter-num';
         num.textContent = entry.label;
         link.appendChild(num);
-        link.appendChild(document.createTextNode(entry.title));
+        link.appendChild(document.createTextNode(' ' + entry.title));
         wrap.appendChild(link);
         groupEl.appendChild(wrap);
       });

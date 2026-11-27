@@ -89,4 +89,4 @@
 
 **출처.** [최윤섭 박사의 「좋은 연구자란 무엇인가 (+ 몇 가지 사소한 팁)」](https://gradschoolstory.chkwon.net/yoonsup/to-be-a-good-researcher/)(2018)에서 종합 예술가 비유, 다섯 능력과 그 설명, 평생에 걸친 방향이라는 말, 휴식·월요병·랩미팅 팁을 가져왔다. [엄태웅 대표의 「대학원생이 갖추어야 할 의외의 덕목들 4가지」](https://gradschoolstory.chkwon.net/terry/four_virtues/)(2018)에서 네 덕목과 스타트업 비유, "연구는 혼자하는가" 문장을 가져왔다.
 
-다음: [13장 자율성](./chapter_14_autonomy_weight.md)
+다음: [13장 박사과정의 자율성과 스스로 방향 잡기](./chapter_14_autonomy_weight.md)

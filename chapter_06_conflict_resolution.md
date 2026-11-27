@@ -8,7 +8,7 @@
 
 ---
 
-## 6.1 갈등에서 살필 상황
+## 6.1 갈등의 유형부터 구분하기
 
 갈등의 양상은 언제나 정해진 단계를 밟지는 않는다. 아래 네 가지 국면은 한꺼번에 겹쳐 나타나기도 하고, 아무런 전조도 없이 중대한 사건이 터져 곧바로 공식 대응이 필요해지기도 한다. 지금 내가 어디쯤 서 있는지 가늠하는 기준으로 삼아 보자.
 
@@ -106,4 +106,4 @@
 
 **출처.** 9위 '사이코'는 [엄태웅 대표 「좋은 지도교수 만나는 법」](https://gradschoolstory.chkwon.net/terry/mysupervisor/)의 유형 이름이다. 권력 관계 논점은 [최윤섭 박사 「지도 교수를 어떻게 골라야 할까」](https://gradschoolstory.chkwon.net/yoonsup/how_to_choose_your_advisor/)와 [4장](./chapter_04_two_way_relationship.md) §4.2에서 가져왔다. 공식 절차와 신고 기한은 소속 기관의 규정을 따른다.
 
-다음: [7장 내 연구 갖기](./chapter_07_my_research.md)
+다음: [7장 내 연구 주제 잡기와 시간 확보](./chapter_07_my_research.md)

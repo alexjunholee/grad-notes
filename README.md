@@ -48,18 +48,18 @@ grad-notes/
 ├── chapter_02_environment.md
 ├── chapter_03_nonengineering_phd_path.md
 │
-├── chapter_04_two_way_relationship.md          # 2부: 지도교수
+├── chapter_04_two_way_relationship.md          # 2부: 지도교수와의 관계와 갈등
 ├── chapter_05_signal_reading.md
 ├── chapter_06_conflict_resolution.md
 │
-├── chapter_07_my_research.md                   # 3부: 연구 생활
+├── chapter_07_my_research.md                   # 3부: 연구 주제, 시간, 협업, 도구
 ├── chapter_08_time_use.md
 ├── chapter_09_give_first.md
 ├── chapter_10_one_question_email.md
 ├── chapter_11_tool_trap.md
 ├── chapter_12_multi_skill.md
 │
-├── chapter_14_autonomy_weight.md               # 4부: 마음과 생활
+├── chapter_14_autonomy_weight.md               # 4부: 자율성, 비교, 정신건강
 ├── chapter_15_comparison_trap.md
 ├── chapter_16_breakdown_cycle.md
 ├── chapter_17_integrated_life.md
